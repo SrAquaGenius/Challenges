@@ -1,0 +1,12 @@
+# Compiled source #
+###################
+*.o
+*.exe
+
+# Packages        #
+###################
+*.zip
+*.rar
+
+# ZIPS Folder     #
+ZIPS/
