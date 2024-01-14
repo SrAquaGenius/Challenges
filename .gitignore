@@ -10,3 +10,6 @@
 
 # ZIPS Folder     #
 ZIPS/
+
+# Makefile (for now) #
+Makefile
