@@ -1,5 +1,5 @@
 let cells = [];
-let ruleValue = 110;
+let ruleValue = 45;
 let ruleSet;
 let w = 5;
 let y = 0;
